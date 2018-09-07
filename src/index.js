@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom'
 import { camelize } from './lib/String'
 import {makeCancelable} from './lib/cancelablePromise'
 import invariant from 'invariant'
-
 const mapStyles = {
   container: {
     position: 'absolute',
