@@ -1,7 +1,7 @@
 {
   "name": "google-maps-react",
   "version": "1.0.18",
-  "description": "Google maps container",
+  "description": "Google maps container app",
   "author": "Fullstack.io <us@fullstack.io>",
   "license": "MIT",
   "options": {
